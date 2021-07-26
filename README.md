@@ -1,5 +1,5 @@
 # linearize-dynamics
-Experiment code for my senior thesis, "A Deep Learning Approach to Modeling Nonlinear and Chaotic Dynamics with Memory"
+Experiment code for my senior thesis, "Integrating Deep Learning with the Theory of Nonlinear, Chaotic, and History-Dependent Dynamics"
 
 Included is the Jupyter notebook used to test and run the code. Code is written in Numpy and PyTorch.
 
